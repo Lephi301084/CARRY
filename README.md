@@ -75,3 +75,83 @@ Carry không phải app đơn lẻ. Nó là hệ sinh thái bảo mật phi tậ
 • Qubic: có use-case thật, tăng nhu cầu compute.
 
 . Nhà phát triển: API bảo mật sống trên compute.
+
+# CARRY.
+“Carry is a digital bodyguard that runs on all devices and lives on Qubic compute. It scans multiple chains, gets real data from many public sources for verification, does not use fake data. Carry detects scams, blocks risks, protects both users and AGI from transaction risks and malicious data.”
+CARRY – DIGITAL BODYGUARD LIVES ON QUBIC, RUNS ON ALL DEVICES
+
+1. What is Carry (upgrade)?
+
+A digital security entity that runs on Qubic Compute, appears on all devices:
+
+• Phone app
+• Browser extension
+• Wallet plugin
+• Module for AGI
+→ A “defense brain” that always follows users + AI.
+
+---
+
+2. How does Carry live on Qubic?
+
+• Risk data is processed by QVM compute → transparent, decentralized.
+ • Carry self-learns using AI models running on Qubic → does not depend on central servers.
+
+• Each time a user/AGI interacts → Carry evolves logic to detect scams.
+
+In short: Carry is a digital creature that lives on Qubic's compute power.
+
+---
+
+3. What does Carry do on any device?
+
+• Phone:
+Monitor apps, web, wifi → instantly warn when there is an unusual action.
+
+• Computer & browser:
+Scan strange web, dangerous dApp, strange extension → self-lock.
+
+• Crypto wallet (MetaMask, TON, Solflare…):
+Analyze smart contracts before signing → warn & suggest safety level.
+
+• AGI / AI:
+Clean input data, detect dirty data, protect AGI from being tricked into wrong operations.
+
+• IoT / Smart Home devices:
+Detect unauthorized access to cameras, routers, APIs. 
+
+---
+
+4. Advantages of Carry “living” on Qubic
+
+• Transparency: all warning decisions are traceable.
+
+• Security: no one controls, difficult to attack the center.
+
+• Scalability: the more compute → Carry is stronger.
+
+• Longevity: the more Qubic exists → Carry is stronger.
+
+Carry is not a single app. It is a decentralized security ecosystem, automatically developing according to the strength of Qubic.
+
+✔ No central server → Cannot be hacked
+
+✔ The more nodes → the stronger
+
+✔ Transparent warning → cannot be faked
+
+✔ In line with Qubic philosophy “AI lives and develops by itself”
+
+---
+
+5. Overall value
+
+• Users: always have a digital bodyguard by their side.
+
+ • AGI: has a layer of protection to avoid being “poisoned” -> clean data -> more accurate decisions.
+
+• Blockchain: reduces hacking, increases trust.
+
+• Qubic: has real use-cases, increases demand for compute.
+
+. Developers: Secure APIs live on compute.
