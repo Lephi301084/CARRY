@@ -1,6 +1,6 @@
 # CARRY.
 “Carry là vệ sĩ số chạy trên mọi thiết bị và sống bằng compute Qubic. Nó quét đa chuỗi, lấy dữ liệu thật từ nhiều nguồn công khai để kiểm chứng, không dùng dữ liệu giả. Carry phát hiện scam, khóa nguy cơ, bảo vệ cả người dùng lẫn AGI khỏi rủi ro giao dịch và dữ liệu độc.”
-CARRY – VỆ SĨ SỐ SỐNG TRÊN QUUBIC, CHẠY MỌI THIẾT BỊ
+CARRY – VỆ SĨ SỐ SỐNG TRÊN QUBIC, CHẠY MỌI THIẾT BỊ
 
 1. Carry là gì (bản nâng cấp)?
 
@@ -11,7 +11,6 @@ Một thực thể bảo mật số chạy trên Qubic Compute, xuất hiện tr
 • Plugin cho ví
 • Module cho AGI
 → Một “bộ não phòng vệ” luôn theo sát người dùng + AI.
-
 
 ---
 
@@ -55,12 +54,24 @@ Phát hiện truy cập trái phép vào camera, router, API.
 
 Carry không phải app đơn lẻ. Nó là hệ sinh thái bảo mật phi tập trung, phát triển tự động theo sức mạnh Qubic.
 
+✔ Không server trung tâm → Không hack được
+
+✔ Càng nhiều node → càng mạnh
+
+✔ Cảnh báo minh bạch → không thể làm giả
+
+✔ Phù hợp triết lý Qubic “AI tự sống và phát triển”
 
 ---
 
 5. Giá trị tổng quan
 
 • Người dùng: luôn có vệ sĩ số bên cạnh.
-• AGI: có lớp bảo vệ để không bị “đầu độc”.
+
+• AGI: có lớp bảo vệ để không bị “đầu độc” -> dữ liệu sạch -> quyết định chính xác hơn.
+
 • Blockchain: giảm hack, tăng niềm tin.
+
 • Qubic: có use-case thật, tăng nhu cầu compute.
+
+. Nhà phát triển: API bảo mật sống trên compute.
